@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m studying fullstack developer program which is fundamentally based on JavaScript!
+- 🔭 I’m studying fullstack developer program which is fundamentally based on JavaScript.
 - 🌱 At present I'm refreshing my React knowledge.
 - 📃 I have set a plan for learning how to comprehensively apply Typescript to React.
 - 📫 How to reach me: mrhaque179@yahoo.com 
