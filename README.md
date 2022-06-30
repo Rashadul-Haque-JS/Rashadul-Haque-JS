@@ -2,7 +2,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - 🔭 I’m studying fullstack developer program which is fundamentally based on JavaScript.
 - 🌱 At present I'm refreshing my React knowledge.
