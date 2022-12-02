@@ -7,7 +7,7 @@
 - 🔭 I’m studying fullstack developer program which is fundamentally based on JavaScript.
 - 🌱 At present I'm learning software life cycle management which is related to cloud services.
 - 📃 I have set a plan for learning deeper in cloud platform technologies.
-- 📫 How to reach me: mrhaque179@yahoo.com 
+- 📫 How to reach me: mrhaque179@gmail.com 
 
 
 
