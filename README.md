@@ -7,7 +7,7 @@
 - 🔭 I’m looking forward to complete my two years developer program in this june.
 - 🌱 At present I am looking for new role in frontend development.
 - 📃 I have set a plan for learning deeper in cloud platform technologies.
-- 📫 How to reach me: mrhaque179@gmail.com 
+- 📫 How to reach me: rashadulhaq.dev@gmail.com 
 
 
 
