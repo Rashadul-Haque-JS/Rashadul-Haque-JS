@@ -12,7 +12,7 @@
 
 
 ---
-
+ ### :computer: Skill Set :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rashadul-Haque-JS&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
