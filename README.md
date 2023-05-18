@@ -1,18 +1,13 @@
-### Hi! A warm welcome! 👋
 
----
-
-### :man_technologist: About Me :
-
-- 🔭 I’m looking forward to complete my two years developer program in this june.
-- 🌱 At present I am looking for new role in frontend development.
-- 📃 I have set a plan for learning deeper in cloud platform technologies.
-- 📫 How to reach me: rashadulhaq.dev@gmail.com 
-
+### :man_technologist: About Me:
+#### I'm Rashadul Haque 
+- :mortar_board: I completed the JavaScript development program in Sweden.
+- ℹ️ This program included a 24-week internship.
+- 📫 How to reach me: [rashadulhaq.dev@gmail.com](mailto:rashadulhaq.dev@gmail.com)
 
 
 ---
- ### :computer: Skill Set :
+ ### :computer:My Skill Set :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
