@@ -5,11 +5,11 @@
 - ℹ️ This program included a 24-week internship.
 - 📫 How to reach me: [rashadulhaq.dev@gmail.com](mailto:rashadulhaq.dev@gmail.com)
 
-### :computer: My recent hobby project on vercel :
+### :computer: My recent hobby project on vercel:
   https://shop-sense.vercel.app/
   
 ---
- ### :computer: My Skill Set :
+ ### :computer: My Skill Set:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
