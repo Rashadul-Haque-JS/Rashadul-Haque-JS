@@ -5,8 +5,8 @@
 - ℹ️ This program included a 24-week internship.
 - 📫 How to reach me: [rashadulhaq.dev@gmail.com](mailto:rashadulhaq.dev@gmail.com)
 
-### :computer: My recent hobby project on vercel:
-  https://shop-sense.vercel.app/
+### :computer: My portfolio on Azure:
+  https://www.rashadul-portfolio.com/
   
 ---
  ### :computer: My Skill Set:
