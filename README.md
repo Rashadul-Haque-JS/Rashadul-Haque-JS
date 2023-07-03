@@ -4,7 +4,7 @@
 - :mortar_board: I have completed the JavaScript development program in Sweden.
 - ℹ️ This program included a 24-week internship.
 - 📫 How to reach me: [rashadulhaq.dev@gmail.com](mailto:rashadulhaq.dev@gmail.com)
-- ![counter](https://github.com/Rashadul-Haque-JS.m.pipedream.net)
+
 
 ### :computer: My portfolio on Azure:
   https://www.rashadul-portfolio.com/
