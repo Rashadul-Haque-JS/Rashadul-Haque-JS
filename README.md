@@ -4,11 +4,11 @@
 - :mortar_board: I have completed the JavaScript development program in Sweden.
 - ℹ️ This program included a 24-week internship.
 - 📫 How to reach me: [rashadulhaq.dev@gmail.com](mailto:rashadulhaq.dev@gmail.com)
-
+![Profile views](https://gpvc.arturio.dev/Rashadul-Haque-JS)
 
 ### :computer: My portfolio on Azure:
   https://www.rashadul-portfolio.com/
-![Profile views](https://gpvc.arturio.dev/Rashadul-Haque-JS)
+
 ---
  ### :computer: My Skill Set:
 <div>
