@@ -8,7 +8,7 @@
 
 ### :computer: My portfolio on Azure:
   https://www.rashadul-portfolio.com/
-  
+![Profile views](https://gpvc.arturio.dev/Rashadul-Haque-JS)
 ---
  ### :computer: My Skill Set:
 <div>
