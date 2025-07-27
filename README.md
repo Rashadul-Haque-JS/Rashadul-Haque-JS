@@ -1,10 +1,5 @@
 
 ### :man_technologist: About Me:
-#### I'm Rashadul Haque 
-- :mortar_board: I have completed the JavaScript development program in Sweden.
-- ℹ️ This program included a 24-week internship.
-- ℹ️ Now I am looking for opportunities in Frontend or Fullstack developer positions.
-- 📫 How to reach me: [rashadulhaq.dev@gmail.com](mailto:rashadulhaq.dev@gmail.com)
 
 
 ### :computer: My portfolio on Azure:
