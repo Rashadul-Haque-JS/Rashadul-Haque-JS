@@ -1,12 +1,4 @@
-
-### :man_technologist: About Me:
-
-
-### :computer: My portfolio on Azure:
-  https://www.rashadul-portfolio.com/
-
----
- ### :computer: My Skill Set:
+### :computer: My Skill Set:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
